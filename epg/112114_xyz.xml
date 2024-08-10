@@ -53679,6 +53679,9 @@
 	<programme channel="纯享4K" start="20240811005800 +0800" stop="20240811014600 +0800">
 		<title lang="zh">智造美好生活4K 第3集 慧 城市</title>
 	</programme>
+	<programme channel="纯享4K" start="20240811014600 +0800" stop="20240811021500 +0800">
+		<title lang="zh">丛林星球4K 月亮丛林</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65199,11 +65202,17 @@
 	<programme channel="黑莓动画" start="20240811012900 +0800" stop="20240811013800 +0800">
 		<title lang="zh">30_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240811013800 +0800" stop="20240811014800 +0800">
+		<title lang="zh">31_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240811000800 +0800" stop="20240811014500 +0800">
 		<title lang="zh">我们是夜晚</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240811014500 +0800" stop="20240811031200 +0800">
+		<title lang="zh">精舞门2</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -65667,6 +65676,9 @@
 	<programme channel="newtv超级综艺" start="20240811005300 +0800" stop="20240811013900 +0800">
 		<title lang="zh">30_平凡之路</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240811013900 +0800" stop="20240811025900 +0800">
+		<title lang="zh">国家舞台</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -65724,6 +65736,9 @@
 	<programme channel="newtv超级电视剧" start="20240811005500 +0800" stop="20240811014000 +0800">
 		<title lang="zh">17_远方的山楂树</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240811014000 +0800" stop="20240811022600 +0800">
+		<title lang="zh">18_远方的山楂树</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65732,6 +65747,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240811005200 +0800" stop="20240811013700 +0800">
 		<title lang="zh">12_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240811013700 +0800" stop="20240811022300 +0800">
+		<title lang="zh">13_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -65771,6 +65789,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240811004700 +0800" stop="20240811013300 +0800">
 		<title lang="zh">26_好歹一家人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240811013300 +0800" stop="20240811021800 +0800">
+		<title lang="zh">27_好歹一家人</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -65822,6 +65843,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20240811000600 +0800" stop="20240811014300 +0800">
 		<title lang="zh">第10期加长版：尼格买提体验水上婚礼抢亲</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240811014300 +0800" stop="20240811024200 +0800">
+		<title lang="zh">选对健康（20240806）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -65894,6 +65918,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20240811002000 +0800" stop="20240811013800 +0800">
 		<title lang="zh">搜神记：南海美人鲛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240811013800 +0800" stop="20240811025600 +0800">
+		<title lang="zh">神都蜜探</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
